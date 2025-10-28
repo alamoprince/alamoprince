@@ -5,7 +5,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/seuuser?style=for-the-badge)](https://github.com/alamoprince)
 
 **Chemical Engineer - Federal University of Pará** 🧪 |
-**Python Developer 🖥️** | **DevOps Azure 🧰**
+**Python Developer 🖥️** | **DevOps Azure 🧰** |
  **Data Science** 🚀 | **Open Source Contributor** 🌍
 
 ---
